@@ -6,6 +6,6 @@ Based on the current class implementation the game can be expandet massivily to 
 
 ![](/img/screen_030.jpg) 
 
-![](/img/screen_031.jpg) 
+![](/img/screen_31.jpg) 
 
 ![](/img/class-dia.gif) 
